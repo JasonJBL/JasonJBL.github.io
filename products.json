@@ -1,6 +1,6 @@
 {
-    "products": {
-        "snowboard": {
+    "Products": {
+        "Snowboard": {
             "price": 500,
             "size": 12,
             "color": "black and red",
@@ -9,7 +9,7 @@
                 "mountainGear"
             ]
         },
-        "skis": {
+        "Skis": {
             "price": 400,
             "size": 15,
             "color": "powder blue",
@@ -18,7 +18,7 @@
                 "mountainGear"
             ]
         },
-        "helmet": {
+        "Helmet": {
             "price": 49,
             "size": "medium",
             "color": "grey",

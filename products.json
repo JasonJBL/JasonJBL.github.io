@@ -1,0 +1,77 @@
+products = {
+    "snowboard": {
+        "price": 500,
+        "size": 12,
+        "color": "black and red",
+        "categories": ["neccesities", "mountainGear"]
+    },
+    "skis": {
+        "price": 400,
+        "size": 15,
+        "color": "powder blue",
+        "categories": ["neccesities", "mountainGear"]
+    },
+
+    "helmet": {
+        "price": 49,
+        "size": "medium",
+        "color": "grey",
+        "categories": ["neccesities", "mountainGear"]
+    },
+
+    "Visor": {
+        "price": 30,
+        "size": "medium",
+        "color": "gold",
+        "categories": ["luxuries", "mountainGear"]
+    },
+
+    "Energy Bar": {
+        "price": 4.99,
+        "size": "200 calories",
+        "color": "chocolate-colored",
+        "categories": ["luxuries", "mountainGear"]
+    },
+    "Poles": {
+        "price": 60,
+        "size": "5ft",
+        "color": "black",
+        "categories": ["neccesities", "mountainGear"]
+    },
+    "Gloves": {
+        "price": 39,
+        "size": "medium",
+        "color": "blue",
+        "categories": ["neccesities", "clothes"]
+    },
+    "Canada Goose Jacket": {
+        "price": 499,
+        "size": "medium",
+        "color": "red",
+        "categories": ["luxuries", "clothes"]
+    },
+    "Snowproof Pants": {
+        "price": 99,
+        "size": "large",
+        "color": "maroon",
+        "categories": ["neccesities", "clothes"]
+    },
+    "Handwarmers": {
+        "price": 9.99,
+        "size": "12 pack",
+        "color": "orange",
+        "categories": ["luxuries", "mountainGear"]
+    },
+    "Ski Mask": {
+        "price": 29,
+        "size": "one size fits all",
+        "color": "black",
+        "categories": ["luxuries", "clothes"]
+    },
+    "Boots":{
+        "price": 119,
+        "size": "12",
+        "color": "silver",
+        "categories": ["necceties", "mountainGear"]
+    },
+}
